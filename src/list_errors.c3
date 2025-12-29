@@ -1,3 +1,3 @@
-module list::err;
+module functional::err;
 
 faultdef NOT_FOUND;
